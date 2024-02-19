@@ -16,5 +16,8 @@ You can connect with me on social media:
 - Twitter: [Nziza Aime Pacifique](https://twitter.com/aimenziza) 🐦
 - LinkedIn: [Nziza Aime Pacifique](https://www.linkedin.com/in/nziza-aime-pacifique/) 🔗
 - Instagram: [Nziza Aime Pacifique](https://www.instagram.com/nziza_aime_pacifique/) 📂
+- 
+📫 You can reach me out via email at [paccynziza@gmail.com](mailto:paccynziza@gmail.com)
 
-Let's connect and collaborate on exciting Flutter projects together! 🤝
+Let's connect and collaborate on exciting Flutter projects together! 🤝 
+
