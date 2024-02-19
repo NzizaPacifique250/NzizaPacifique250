@@ -1,7 +1,7 @@
 # My Flutter Development Journey! 🚀
 
 ## Introduction
-Hello there👋👋! I'm **Nziza Aime Pacifique**, a passionate Flutter developer on an exciting journey to create innovative and user-friendly mobile applications. With a background in [HTML,CSS and JavaScript], I bring a unique perspective to my Flutter projects. I believe in the power of technology to transform ideas into reality and enhance the way we interact with the digital world.
+Hello there👋👋! I'm **Nziza Aime Pacifique**, a passionate Flutter developer on an exciting journey to create innovative and user-friendly mobile applications. With a background in web development using HTML,CSS and JavaScript, I bring a unique perspective to my Flutter projects. I believe in the power of technology to transform ideas into reality and enhance the way we interact with the digital world.
 
 ## Projects
 Here are some of the exciting projects I've been working on:
