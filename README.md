@@ -5,9 +5,9 @@ Hello there👋👋! I'm Nziza Aime Pacifique, a passionate Flutter developer on
 
 ## Projects
 Here are some of the exciting projects I've been working on:
-- **Web App Dashboard**: [This project aims to replicate the design of a web app dashboard using Flutter for web.]
-- **Never Again Rwanda System**: [This never again management system. Never Again Rwanda (NAR) is a human rights and peacebuilding organization that was founded in response to the 1994 genocide against Tutsis.]`Private`
-- **Project 3**: [Brief description and link to the project repository]
+- **Web App Dashboard**: [This project aims to replicate the design of a web app dashboard using Flutter for web.]`Public`
+- **Never Again Rwanda System**: [This never again management system. Never Again Rwanda (NAR) is a human rights and peacebuilding organization that was founded in response to the 1994 genocide against Tutsis.] `Private`
+- **Babyeyi**: [E-learning class management system with use cases like attendance, posting and communication between parents and teachers] `Private`
 
 Feel free to explore my repositories to see more of my work!
 
